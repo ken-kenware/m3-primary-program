@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/m3-primary-program',
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "M3 2021 Primary Program",
